@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [Color Picker X](kartexdev.com.tr)
 
-- 🌱 I’m currently learning **Html, css, JavaScript, Java(with Kotlin)**
+- 🌱 I’m currently learning **Html, css, JavaScript, Java(with Android)**
 
 - 👨‍💻 All of my projects are available at [https://kartexdev.com.tr](https://kartexdev.com.tr)
 
