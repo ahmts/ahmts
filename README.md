@@ -95,7 +95,7 @@
 
 ---
 
-🤠 Click here for a detailed stats 📈 👉🏻 [**@CodersRank**](https://profile.codersrank.io/user/ahmts/)
+🤠 Click here for a detailed stats 📈 👉🏻 [**@CodersRank**](https://profile.codersrank.io/user/ahmetefeakan/)
 
   
   
