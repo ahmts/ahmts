@@ -100,7 +100,7 @@
   
   
 
-<p><a  href="https://profile.codersrank.io/user/ahmts"  align="left"><img  align="left"  width="494px"  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=ahmts&layout=horizontal&badges=3&show-avatar=true&min-width=494px&branding=false&style=--bg-color:%23fff;--border:1px%20solid%23e4e2e2;--border-radius:4px;--header-padding:20px;--header-bg-color:%232f80ed;--name-font-size:18px;--name-font-weight:bold;--rank-font-size:14px;--preloader-color:%232f80ed;--badges-padding:20px;--badge-box-shadow:none;--badge-border:1px%20solid%23e4e2e2;--badge-rank-font-size:12px;--badge-location-font-size:12px;--badge-padding:10px;--badge-margin:10px;--badge-icon-size:16px;--badge-technology-font-size:14px;--badge-technology-font-weight:normal)" /></a><p/>
+<p><a  href="https://profile.codersrank.io/user/ahmetefeakan"  align="left"><img  align="left"  width="494px"  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=ahmetefeakan&layout=horizontal&badges=3&show-avatar=true&min-width=494px&branding=false&style=--bg-color:%23fff;--border:1px%20solid%23e4e2e2;--border-radius:4px;--header-padding:20px;--header-bg-color:%232f80ed;--name-font-size:18px;--name-font-weight:bold;--rank-font-size:14px;--preloader-color:%232f80ed;--badges-padding:20px;--badge-box-shadow:none;--badge-border:1px%20solid%23e4e2e2;--badge-rank-font-size:12px;--badge-location-font-size:12px;--badge-padding:10px;--badge-margin:10px;--badge-icon-size:16px;--badge-technology-font-size:14px;--badge-technology-font-weight:normal)" /></a><p/>
 
 <p>&nbsp;<img  align="left"  src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmts&show_icons=true&locale=en&layout=compact"  alt="ahmts" /></p>
 
@@ -129,8 +129,8 @@ Recently I'm coding in...
 
   
 
-<a  href="https://codestats.net/users/ahmts">
+<a  href="https://codestats.net/users/ahmetefeakan">
 
-<img  src='https://codestats-readme.wegfan.cn/history-graph/ahmts?width=850&height=300&timezone=03:00&history_days=21&max_languages=9'  alt="WEGFan's Code::Stats history graph" />
+<img  src='https://codestats-readme.wegfan.cn/history-graph/ahmetefeakan?width=850&height=300&timezone=03:00&history_days=21&max_languages=9'  alt="WEGFan's Code::Stats history graph" />
 
 </a>
