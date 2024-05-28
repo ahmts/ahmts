@@ -15,36 +15,8 @@
 
   
 
-- 🔭 I’m currently working on [Color Picker X](kartexdev.com.tr)
 
-  
 
-- 🌱 I’m currently learning **Html, css, JavaScript, Java(with Android)**
-
-  
-
-- 👨‍💻 All of my projects are available at [https://kartexdev.com.tr](https://kartexdev.com.tr)
-
-  
-
-- 📝 I regularly write articles on [https://kartexdev.com.tr](https://kartexdev.com.tr)
-
-  
-
-- 📄 Know about my experiences [null(for-now)](null(for-now))
-
-  
-
-<h3  align="left">Connect with me:</h3>
-
-<p  align="left">
-
-<a  href="https://linkedin.com/in/ahmet-efea"  target="blank"><img  align="center"  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"  alt="ahmet-efea"  height="30"  width="40" /></a>
-<a  href="https://instagram.com/ahm.t.ms"  target="blank"><img  align="center"  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"  alt="ahm.t.ms"  height="30"  width="40" /></a>
-
-</p>
-
-<p> </p>
 <br>
 <h3  align="left">👨‍💻 Languages and Tools</h3>
 
