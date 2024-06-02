@@ -1,15 +1,15 @@
-
-![MasterHead](https://media.licdn.com/dms/image/D4D16AQH_OU1zQ4lJng/profile-displaybackgroundimage-shrink_350_1400/0/1693582195643?e=1705536000&v=beta&t=GzXiEGgq1Pdd3Zb2ur8fNQfv0Jgz6GpYiS5a-RUPTYw)
+![MasterHead](https://raw.githubusercontent.com/ahmts/ahmts.github.io/main/img/masterhead.png)
 
 <h1  align="center">Hi 👋, I'm Ahmet Efe</h1>
 
 <h3  align="center">A Web and Application developer from Türkiye</h3>
 
-  
 
+Visit My Github Website: <br>
+[![.Net](https://img.shields.io/badge/ahmts.github.io-blue?style=for-the-badge&logo=htmx&link=https://github.com/ahmts)](https://ahmts.github.io)
+<br>
+<br>
 <p  align="left"> <img src="https://komarev.com/ghpvc/?username=ahmts&label=Profile%20views&color=0e75b6&style=flat"  alt="ahmts" /> </p>
-
-  
 
 <p  align="left"> <a  href="https://github.com/ryo-ma/github-profile-trophy"><img style="height: 90;" src="https://github-profile-trophy.vercel.app/?username=ahmts"  alt="ahmts" /></a> </p>
 
@@ -97,7 +97,7 @@
 
   
 
-Recently I'm coding in...
+👍Recently I'm coding in...
 
   
 
