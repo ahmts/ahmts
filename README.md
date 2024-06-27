@@ -44,9 +44,12 @@ Visit My Github Website: <br>
 [![Ubuntu](https://img.shields.io/badge/-Ubuntu-red?style=flat&logo=ubuntu&logoColor=white&link=https://github.com/ahmts)](https://github.com/ahmts)
 [![Kali Linux](https://img.shields.io/badge/-Kali-blue?style=flat&logo=kalilinux&logoColor=white&link=https://github.com/ahmts)](https://github.com/ahmts)
 [![RaspbianOS](https://img.shields.io/badge/-RaspbianOS-E30B5C?style=flat&logo=raspberrypi&logoColor=white&link=https://github.com/ahmts)](https://github.com/ahmts)
+[![Windows](https://img.shields.io/badge/-Windows❌-blue?style=flat&logo=windows95&logoColor=white&link=https://github.com/ahmts)](https://github.com/ahmts)
+[![ArchLinux](https://img.shields.io/badge/-ArchLinux✅-1793D1?style=flat&logo=archlinux&logoColor=white&link=https://github.com/ahmts)](https://github.com/ahmts)
+[![Manjaro](https://img.shields.io/badge/-Manjaro-35BF5C?style=flat&logo=manjaro&logoColor=white&link=https://github.com/ahmts)](https://github.com/ahmts)
 [![Mint](https://img.shields.io/badge/-Mint-green?style=flat&logo=linuxmint&logoColor=white&link=https://github.com/ahmts)](https://github.com/ahmts)
-[![Windows](https://img.shields.io/badge/-Windows-blue?style=flat&logo=windows95&logoColor=white&link=https://github.com/ahmts)](https://github.com/ahmts)
 [![Pardus](https://img.shields.io/badge/-Pardus-orange?style=flat&logoColor=white&link=https://github.com/ahmts)](https://github.com/ahmts)
+[![KDE](https://img.shields.io/badge/-KDE-1D99F3?style=flat&logo=kde&logoColor=white&link=https://github.com/ahmts)](https://github.com/ahmts)
 
 [![Nodejs](https://img.shields.io/badge/-Nodejs-green?style=flat&logo=Node.js&link=https://github.com/ahmts)](https://github.com/ahmts)
 [![Xampp](https://img.shields.io/badge/-Xampp-orange?style=flat&logo=xampp&logoColor=white&link=https://github.com/ahmts)](https://github.com/ahmts)
